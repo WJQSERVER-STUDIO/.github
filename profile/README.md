@@ -10,6 +10,8 @@ WJQserver Studio是一个简单的小团体, 在兴趣和组织需求下构建�
 
 TG群聊: https://t.me/wjqserver_pro
 
+加入本团队: 请前往此[仓库](https://github.com/WJQSERVER-STUDIO/.github)发起申请issue, 谢谢
+
 ## 赞助我们
 
 若您觉得项目有所帮助, 可以通过以下方式赞助我们
