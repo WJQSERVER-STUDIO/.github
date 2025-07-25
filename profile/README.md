@@ -16,6 +16,4 @@ TG群聊: https://t.me/wjqserver_pro
 
 若您觉得项目有所帮助, 可以通过以下方式赞助我们
 
-爱发电: https://afdian.com/a/wjqserver
-
 USDT(TRC20): `TNfSYG6F2vkiibd6J6mhhHNWDgWgNdF5hN`
